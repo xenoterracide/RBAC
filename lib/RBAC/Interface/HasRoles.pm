@@ -1,4 +1,4 @@
-package RBAC::Interface::HasRole;
+package RBAC::Interface::HasRoles;
 use strict;
 use warnings;
 use Moo::Role;
