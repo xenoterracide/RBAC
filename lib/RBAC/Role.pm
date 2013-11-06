@@ -1,4 +1,4 @@
-package RBAC::User;
+package RBAC::Role;
 use strict;
 use warnings;
 use namespace::autoclean;

@@ -1,4 +1,4 @@
-package RBAC::Interface::SoD::Static;
+package RBAC::Interface::SoD::Dynamic;
 use strict;
 use warnings;
 use Moo::Role;
