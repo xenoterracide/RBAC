@@ -16,4 +16,4 @@ requires qw(
 );
 
 1;
-# ABSTRACT: Static Seperation of Duties
+# ABSTRACT: Static Separation of Duties
