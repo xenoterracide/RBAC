@@ -1,4 +1,4 @@
-package RBAC::Interface::User;
+package Security::RBAC::Interface::User;
 use strict;
 use warnings;
 use Moo::Role;
@@ -6,7 +6,7 @@ use Moo::Role;
 # VERSION
 
 with qw(
-	RBAC::Interface::HasRoles
+	Security::RBAC::Interface::HasRoles
 );
 
 requires qw(

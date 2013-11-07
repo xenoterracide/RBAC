@@ -1,4 +1,4 @@
-package RBAC::Interface::SoD::Dynamic;
+package Security::RBAC::Interface::SoD::Dynamic;
 use strict;
 use warnings;
 use Moo::Role;
@@ -6,7 +6,7 @@ use Moo::Role;
 # VERSION
 
 with qw(
-	RBAC::Interface::Role
+	Security::RBAC::Interface::Role
 );
 
 requires qw(
